@@ -98,5 +98,5 @@ for k in k_vals
     end
 end
 
-
+# Examine the matrix stored in validation_results.txt and choose the minimum element. The indices of this element correspond to the optimal hyperparameters k, λ, and maxiter. 
 
