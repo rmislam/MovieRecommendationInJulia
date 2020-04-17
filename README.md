@@ -1,4 +1,4 @@
-# movie_recommendation
+# Movie recommendation algorithm implemented in Julia
 Matrix factorization using alternating least squares for movie recommendation
 
 The file ```recommend.jl``` contains a single run of the ALS algorithm with no cross-validation or parameter tuning.
